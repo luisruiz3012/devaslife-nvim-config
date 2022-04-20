@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/luis/dev/websites/cobros-globales/src/pages'
+let g:netrw_dirhist_2='/home/luis/dev/websites/cobros-globales/src'
+let g:netrw_dirhist_1='/home/luis/dev/websites/cobros-globales'
+let g:netrw_dirhist_0='/home/luis/dev/python'
+let g:netrw_dirhist_9='/etc/fish'
+let g:netrw_dirhist_8='/etc/fish/functions'
+let g:netrw_dirhist_7='/etc/fish'
+let g:netrw_dirhist_6='/etc/fish/conf.d'
+let g:netrw_dirhist_5='/etc/fish'
+let g:netrw_dirhist_4='/home/luis'
